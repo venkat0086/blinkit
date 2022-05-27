@@ -1,0 +1,672 @@
+{
+  "products": [
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/421721a.jpg",
+      "name": "Mango-Banagnapalli",
+      "qnty": "1Kg",
+      "price": 109,
+      "discount": "12",
+      "category": "fruits",
+      "seller": "venkat fruits",
+      "description": "With its pleasant aroma, thin blemish-free skin and fibre-free sweet yellow pulp, the Banganapalli is certainly the choice for those who don't like fibrous textures in their fruit",
+      "id": 1
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/470636a.jpg",
+      "name": "Banana",
+      "qnty": "3Pc",
+      "price": 19,
+      "discount": "10",
+      "category": "fruits",
+      "seller": "venkat fruits",
+      "description": "Bananas are one of the most popular fruits in the world. They're full important nutrients, but eating too many could end up doing more harm than good. Too much of any single food may contribute to weight gain and nutrient deficiencies. One to two bananas per day is considered a moderate intake for most healthy people.",
+      "id": 2
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/369752a.jpg",
+      "name": "Kiran Watermelon",
+      "qnty": "1 pc",
+      "price": 40,
+      "discount": "12",
+      "category": "fruits",
+      "seller": "venkat fruits",
+      "description": "Kiran watermelon has a vibrant pink to red flesh with dark brown-black seeds. Its juicy flesh is sweet and it offers a slightly grainy texture. They can be just cut into cubes, or used to make beverages, syrups, soups and frozen desserts.",
+      "id": 3
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/351214a.jpg",
+      "name": "Ice Apple",
+      "qnty": "250 g",
+      "price": 122,
+      "discount": "22",
+      "category": "fruits",
+      "seller": "venkat fruits",
+      "description": "Also known as Rose Apple, Wax Apple looks like a pear shaped fruit with waxy skin and crusty flesh. Deliciously juicy, with a faint sweet taste similar to that of an apple it is slightly aromatic packed with flavourful crunch.",
+      "id": 4
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/394525a.jpg",
+      "name": "Kiwi",
+      "qnty": "3 pieces",
+      "price": 135,
+      "discount": "13",
+      "category": "fruits",
+      "seller": "venkat fruits",
+      "description": "Kiwi is sweet and slightly tangy in taste with green flesh on the inside that lends a unique flavor and tropical zing. Kiwis are packed with a lot of flavor and are an excellent source of nutrition.",
+      "id": 5
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/169132a.jpg",
+      "name": "Green Grapes",
+      "qnty": "500 g",
+      "price": 64,
+      "discount": "15",
+      "category": "fruits",
+      "seller": "farahan fruits",
+      "description": "Green grapes are nutritional berries with a sweet-sour taste. Grapes are a great, naturally sweet treat if you are trying to reduce your sugar intake. Grapes are most often eaten fresh, out-of-hand, or sliced and mixed into green salads, yogurt, or veggie wraps.",
+      "id": 6
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/365455a.jpg",
+      "name": "Musk Melon",
+      "qnty": "1 pc",
+      "price": 37,
+      "discount": "29",
+      "category": "fruits",
+      "seller": "farahan fruits",
+      "description": "Muskmelon is synonymous to Juicy, fleshy and aromatic and is one of the most loved fruits of India. Muskmelons have high water content, making them hydrating and cooling.",
+      "id": 7
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/352443a.jpg",
+      "name": "Tender Coconut",
+      "qnty": "1 pc",
+      "price": 40,
+      "discount": "15",
+      "category": "fruits",
+      "seller": "farahan fruits",
+      "description": "Tender coconut is considered a healthy source of nutrition. It is a good refreshing drink to beat the hot summer heat and it is very low in caloric value.",
+      "id": 8
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/309921a.jpg",
+      "name": "Nandini Shubham",
+      "qnty": "500ml",
+      "price": 22,
+      "discount": "5",
+      "category": "dairy",
+      "seller": "Nandini Milk products",
+      "description": "Healthy and delicious A wholesome blend of great nutrition and rich taste Pure in quality",
+      "id": 9
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/176a.jpg",
+      "name": "Amul Taaza milk",
+      "qnty": "1 ltr",
+      "price": 68,
+      "discount": "5",
+      "category": "dairy",
+      "seller": "Amul Milk products",
+      "description": "Amul Taaza Toned (Tetrapak) Milk is pasteurized with great nutritional value. It can be consumed directly or can be used for preparing tea, coffee, sweets, khoya, curd, buttermilk, ghee etc.",
+      "id": 10
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/382243a.jpg",
+      "name": "Yakult Light Health Drink",
+      "qnty": "250ml",
+      "price": 95,
+      "discount": "5",
+      "category": "dairy",
+      "seller": "Yakult Milk products",
+      "description": "Yakult is a delicious probiotic drink that helps improve digestion and helps build immunity. Yakult contains 6.5 billion beneficial bacteria that reach our intestines alive and restore the balance of the beneficial or friendly bacteria in the gut.",
+      "id": 11
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/26923a.jpg",
+      "name": "Nandini Good life",
+      "qnty": "1 Ltr",
+      "price": 57,
+      "discount": "5",
+      "category": "dairy",
+      "seller": "Nandini Milk products",
+      "description": "Healthy and delicious, Nandini Good Life Cow Milk (Tetra Pak) is packed with the goodness of essential nutrients. It is popularly used in the preparation of sweets, curd, tea, coffee etc. or can even be consumed directly.",
+      "id": 12
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/127031a.jpg",
+      "name": "Britania Wheat Bread",
+      "qnty": "400 g",
+      "price": 50,
+      "discount": "10",
+      "category": "dairy",
+      "seller": "Britania",
+      "description": "Made from 100% whole wheat grains, Britannia's Whole Wheat Bread is a good source of fibre and essential nutrients. Soft and delicious, enjoy toasted bread with tea or roast it on pan for making crunchy croutons.",
+      "id": 13
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/163a.jpg",
+      "name": "Amul Fresh Cream",
+      "qnty": "1 ltr",
+      "price": 205,
+      "discount": "10",
+      "category": "dairy",
+      "seller": "Amul ",
+      "description": "Amul Fresh Cream is a low fat cream with a smooth texture and rich milky taste. It is used to prepare mouth-watering desserts and dishes like vegetable makhanwala, fruit salads, sweet meals, salad dressings, ice-creams etc.",
+      "id": 14
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/116189a.jpg",
+      "name": "Bingo Yumitos",
+      "qnty": "52 g",
+      "price": 20,
+      "discount": "20",
+      "category": "snacks",
+      "seller": "ITC",
+      "description": "Whoever looked at the potato in the ground and decided to eat it, was a true visionary. Because if it wasn’t for him/ her, centuries later we wouldn’t have had the brilliant idea of making crispy potato chips! Tear open the pack of Bingo! Original Style Chilli Sprinkled and savour this yummy snack. We Indians love our spices and spicy food.",
+      "id": 15
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/594a.jpg",
+      "name": "Pringles Original",
+      "qnty": "107 g",
+      "price": 109,
+      "discount": "7",
+      "category": "snacks",
+      "seller": "LA Super Pvt Ltd",
+      "description": "Crispy and crunchy, Pringles Original Chips make for a flavourful all time snack. It offers a delightful taste in every bite and leaves one asking for more. Just pair it with salsa dip or chilli sauce to relish the exquisite taste.",
+      "id": 16
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/36020a.jpg",
+      "name": "Haldirams's Peanut Namkeen",
+      "qnty": "350 g",
+      "price": 90,
+      "discount": "10",
+      "category": "snacks",
+      "seller": "Haldirams",
+      "description": "Haldiram's Tasty Nuts Namkeen is a traditional dry snack which is crispy, yummy, and fresh. It is prepared by using fine quality ingredients such as peanuts, Bengal gram, besan flour and is a perfect companion for your tea.",
+      "id": 17
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/482040a.jpg",
+      "name": "Haldirams's Naagpur Boondi",
+      "qnty": "300 g",
+      "price": 80,
+      "discount": "12",
+      "category": "snacks",
+      "seller": "Haldirams",
+      "description": "Haldiram's Boondi is made of cereal and infused with mild spices. These small and crunchy round cereal balls are a perfect ingredient for raita and various other dishes",
+      "id": 18
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/372650a.jpg",
+      "name": "Parle Natkeen",
+      "qnty": "400 g",
+      "price": 128,
+      "discount": "15",
+      "category": "snacks",
+      "seller": "Parle",
+      "description": "Need a healthy yet tasty snack to quell your midday hunger pangs? Then Parle Moong Dal Namkeen is the thing for you! Made from the best-quality ingredients, it is a great addition to your tea-time 'munchies' list. This crunchy and crispy snack a flavourful treat. Made from high-quality ingredients. Has a crunchy, savoury taste that leaves you craving for more. Can be enjoyed with your tea or coffee or had as a midday snack.",
+      "id": 19
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/366711a.jpg",
+      "name": "Britannaia Good Day Cookie",
+      "qnty": "120 g",
+      "price": 20,
+      "discount": "10",
+      "category": "bakery",
+      "seller": "Britania",
+      "description": "Briatnia cookies or Biscuits good for diabetic health",
+      "id": 20
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/410622a.jpg",
+      "name": "Unibic Cookies",
+      "qnty": "500 g",
+      "price": 180,
+      "discount": "14",
+      "category": "bakery",
+      "seller": "SLT Retail",
+      "description": "These cookies are stuffed with blackberry, cranberry, glazed fruits, cashew and almond bits",
+      "id": 21
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/481300a.jpg",
+      "name": "Sunfeast Choco Cake",
+      "qnty": "100 g",
+      "price": 60,
+      "discount": "18",
+      "category": "bakery",
+      "seller": "SLT Retail",
+      "description": "Tasty Cakes for children",
+      "id": 22
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/3505a.jpg",
+      "name": "Betty Pan Cake ",
+      "qnty": "500g",
+      "price": 183,
+      "discount": "22",
+      "category": "bakery",
+      "seller": "SLT Retail",
+      "description": "Make your breakfast exciting with Betty Crocker pancakes! In less than 10 minutes of preperation time, you can serve fluffy pancakes! Thereâ€™s room to get extra creative with a variety of toppings like maple syrup, honey, chocolate sauce, fruits, choco chips and what not !Plus, with 22-24 servings. You can bet your morning crowd wonâ€™t go hungry.",
+      "id": 23
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/313249a.jpg",
+      "name": "Dark Fantasy",
+      "qnty": "300 g",
+      "price": 170,
+      "discount": "30",
+      "category": "bakery",
+      "seller": "SLT Retail",
+      "description": "Delicious chocolate encased in crunchy biscuit shells",
+      "id": 24
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/21485a.jpg",
+      "name": "Sprite",
+      "qnty": "2.25 ltr",
+      "price": 99,
+      "discount": "9",
+      "category": "juices",
+      "seller": "Kushboo Freshment",
+      "description": "We didn’t expect you to read this because by now you could have been on the checkout page with the REFRESHING SPRITE in your cart. Seems like you need more convincing so here you go: Sprite is a clear lime drink truly meant to quench your thirst & refresh you since 1999. Now, don’t confuse ‘thirst’ with anything else under the sky! It’s not your agony aunt but just a drink that refreshes you. Its crisp lemon-lime taste makes you feel like you’ve just stepped out of a cold shower. Clear Hai?",
+      "id": 25
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/374687a.jpg",
+      "name": "Sting Energy Drink",
+      "qnty": "250 ml",
+      "price": 20,
+      "discount": "10",
+      "category": "juices",
+      "seller": "Kushboo Freshment",
+      "description": "An energy drink with amazingly refreshing taste It contains caffeine, tourine and B-vitamins that stimulates the mind and energizes the body Also invigorates your taste buds with its refreshingly delicious flavour",
+      "id": 26
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/403174a.jpg",
+      "name": "MonsterEnergy Drink",
+      "qnty": "350ml",
+      "price": 120,
+      "discount": "22",
+      "category": "juices",
+      "seller": "Giri Freshment",
+      "description": "Ideal combo of the right ingredients in the right proportion Powerful & edgy Smooth easy drinking flavor Available in lo-carb and zero sugar",
+      "id": 27
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/385a.jpg",
+      "name": "Red Bull Energy Drink",
+      "qnty": "250 ml",
+      "price": 115,
+      "discount": "16",
+      "category": "juices",
+      "seller": "Giri Freshment",
+      "description": "Red Bull Energy Drink Conatins:- Caffeine: Caffeine was already known by ancient civilisations. They consumed it from natural sources like tea, coffee, cacao beans and cola nuts and appreciated its stimulating effects on the human body.",
+      "id": 28
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/318a.jpg",
+      "name": "Bisleri Packed Water",
+      "qnty": "1 ltr",
+      "price": 20,
+      "discount": "10",
+      "category": "juices",
+      "seller": "Giri Freshment",
+      "description": "Bisleri (Bottle) Mineral Water, goes through multiple stages of the Bisleri purification process, claimed to ensure that the water is free from all forms of bacteria. At Bisleri this purified mineral water is made to go through a double ozonisation process before the filling, to ensure no environment contamination happens during the filling and the product can enjoy a long life.",
+      "id": 29
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/10536a.jpg",
+      "name": "Frooti Mango Drink",
+      "qnty": "2 ltr",
+      "price": 100,
+      "discount": "17",
+      "category": "juices",
+      "seller": "Giri Freshment",
+      "description": "Indulge yourself into a delightful juicy experience with Frooti Mango Drink, a delicious mango juice. Made from fresh, real mango pulp with no preservatives it is so full of mangoes that every sip is like biting into a real juicy mango.",
+      "id": 30
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/388638a.jpg",
+      "name": "Chakki Fresh Atta",
+      "qnty": "5 kg",
+      "price": 225,
+      "discount": "25",
+      "category": "atta",
+      "seller": "venkat stores",
+      "description": "Traditionally ground, Chakki Atta is a wholesome product that helps you prepare soft and healthy chapatis and parathas. Prepared from the finest-quality grains that are sourced from premium wheat fields. Contains zero addition of maida, thus providing you with 100% whole wheat flour. Has a rich aroma and makes fluffy chapatis. The whole wheat formulation has fibres and proteins that will keep you healthy and prevent weight gain.",
+      "id": 31
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/391805a.jpg",
+      "name": "Fortune Basumati Rice",
+      "qnty": "5 kg",
+      "price": 425,
+      "discount": "22",
+      "category": "atta",
+      "seller": "venkat stores",
+      "description": "Fortune’s Hamesha basmati rice offers the irresistible taste of basmati rice at irresistible price. Bring home the goodness of basmati and enjoy the savory rise dishes. Hamesha! Every grain of Fortune Hamesha Basmati Rice is carefully aged, dried, dehusked, processed, graded, and sorted with a sophisticated color sorting machine at our state-of-the-art plant before packed.",
+      "id": 32
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/403799a.jpg",
+      "name": "Toor Dhal",
+      "qnty": "1 kg ",
+      "price": 125,
+      "discount": "15",
+      "category": "atta",
+      "seller": "venkat stores",
+      "description": "Comes with low moisture content Tasty and healthy Rich source of protein",
+      "id": 33
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/389740a.jpg",
+      "name": "GMC Massor Dal",
+      "qnty": "500 g ",
+      "price": 70,
+      "discount": "17",
+      "category": "atta",
+      "seller": "Hari Stores",
+      "description": "With a three-month shelf life making it a must-have in your grocery list, this Grofers Mother's Choice Red Masoor Dal is a great ingredient to provide your body with the required amount of nutrients and proteins. It obtains a rich and creamy textured when cooked, thus adding to the flavour. Nutritionally rich in protein.",
+      "id": 34
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/319868a.jpg",
+      "name": "Harvest Red Poha",
+      "qnty": "1 kg ",
+      "price": 80,
+      "discount": "16",
+      "category": "atta",
+      "seller": "Hari Stores",
+      "description": "Breakfast is a very important meal of the day and hence beginning a day’s meal with a healthy choice is vital, choose Safe Harvest Pesticide Free Red Poha, it is pesticide-free and organic, contains dietary fibre and also vitamin A and C, it has zero cholesterol and trans fats, it is easily digested and keeps you energetic.",
+      "id": 35
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/37078a.jpg",
+      "name": "Nandini Ghee ",
+      "qnty": "1 ltr",
+      "price": 500,
+      "discount": "12",
+      "category": "masala",
+      "seller": "Hrithik Stores",
+      "description": "Prepared from the freshest of butter extracted from pure milk, Nandini Pure Cow Ghee is the perfect addition to your food for a flavourful taste. Has a smooth texture that adds to the overall taste. The rich aroma imparts a mouth-watering fragrance to your food. The pure formulation is a great source of nutrients to keep you fit. This versatile ghee can be used to cook all Indian dishes.",
+      "id": 36
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/39411a.jpg",
+      "name": "Sunpure Oil",
+      "qnty": "5 ltr",
+      "price": 1250,
+      "discount": "19",
+      "category": "masala",
+      "seller": "Hrithik Stores",
+      "description": "Sunpure Refined Sunflower Oil is a lightweight and healthy oil that can be used every day. It is suitable for all kinds of coking. Light colour with a neutral taste that will not alter the natural flavour of your dish. Has zero bad cholesterol content, thus keeping your heart healthy. Packed with nutrients like essential fatty acids and vitamins. Use it to stir-fry, saute, roast, or deep-fry dishes.",
+      "id": 37
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/10951a.jpg",
+      "name": "MTR Rasam Masala",
+      "qnty": "200 g",
+      "price": 125,
+      "discount": "6",
+      "category": "masala",
+      "seller": "Tejas Stores",
+      "description": "MTR is a brand with a 90 year history of serving authentic Indian food and its Rasam Masala is made with its signature recipe. An age-old famous recipe of finely blended spices like coriander, red chilli, fenugreek, and asafoetida. Get instant rasam by adding a pinch of this masala in your preparation, with minimum effort. Tastes best with rice, good for digestion and packed with vitamins and minerals.",
+      "id": 38
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/105a.jpg",
+      "name": "Tata Salt",
+      "qnty": "1 kg",
+      "price": 20,
+      "discount": "10",
+      "category": "masala",
+      "seller": "Tejas Stores",
+      "description": "Manufactured using the vacuum evaporation technology, the Tata White Salt is a must-have ingredient in the Indian kitchen that adds to the flavour of all dishes. The salt is enriched with iodine, ensuring that you never have an iodine deficiency. A kitchen staple that adds a tasty flavour to every dish. Has the required amount of Iodine to provide the body. The salt ensures that children get enough iodine in their diet. Also prevents iodine deficiency in adults.",
+      "id": 39
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/389573a.jpg",
+      "name": "GMC Refined Sugar",
+      "qnty": "1 kg",
+      "price": 60,
+      "discount": "16",
+      "category": "masala",
+      "seller": "Guru Stores",
+      "description": "Grofers Mother's choice refined sugar is perfect for making the desserts. This product is the choice of every mother. Made from best quality sugarcane. The sugar is pure and contains no added chemicals or preservatives. The taste is authentic and true to modern liking.",
+      "id": 40
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/285972a.jpg",
+      "name": "Plain Chicken",
+      "qnty": "250 g",
+      "price": 170,
+      "discount": "10",
+      "category": "meat",
+      "seller": "Akbar Poultry",
+      "description": "Delicious Chicken Sausages Processed under favourable conditions",
+      "id": 41
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/477150a.jpg",
+      "name": "Curry Cut Fish",
+      "qnty": "500 g",
+      "price": 180,
+      "discount": "23",
+      "category": "meat",
+      "seller": "Akbar Poultry",
+      "description": "Delicious Curry cut fish ",
+      "id": 42
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/457416a.jpg",
+      "name": "Pork Breakfast Bacon",
+      "qnty": "300 g",
+      "price": 195,
+      "discount": "21",
+      "category": "meat",
+      "seller": "Masha alla Pork center",
+      "description": "Beechwood smoked, crispy & delicious - expertly prepared using premium pork belly that is cured & naturally smoked for an authentic flavour.",
+      "id": 43
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/33277a.jpg",
+      "name": "Best Plus Special Eggs",
+      "qnty": "6 Units",
+      "price": 73,
+      "discount": "12",
+      "category": "meat",
+      "seller": "Masha alla Pork center",
+      "description": "Best Plus Egg is sourced from selected poultry farms and has a great taste. It is rich in proteins and can be made into a wholesome egg scramble, boiled egg or as cooked in other exotic recipes",
+      "id": 44
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/147350a.jpg",
+      "name": "Best Brown Eggs",
+      "qnty": "6 Units",
+      "price": 84,
+      "discount": "10",
+      "category": "meat",
+      "seller": "Masha alla Egg center",
+      "description": "Best Brown Egg is sourced from selected poultry farms. Rich in protein, this wholesome egg can be enjoyed as scrambled, boiled or as cooked in many exotic recipes.",
+      "id": 45
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/18561a.jpg",
+      "name": "Active Wheel",
+      "qnty": "500 g",
+      "price": 35,
+      "discount": "5",
+      "category": "cleaning",
+      "seller": "Kumar Stores",
+      "description": "Wheel Active Lemon and Jasmine Detergent Powder cleans your clothes perfectly by removing the toughest of stains. It has the strength of Lime and Jasmine that wheels out the dirt from your clothes effectively, leaving a pleasant fragrance behind.",
+      "id": 46
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/453023a.jpg",
+      "name": "Arial Liquid Detergent",
+      "qnty": "2.5 ltr",
+      "price": 490,
+      "discount": "10",
+      "category": "cleaning",
+      "seller": "Kumar Stores",
+      "description": "Ariel Matic liquid detergent removes tough stains in just 1 wash and protects your colored clothes from fading. As a liquid detergent, it dissolves easily in water, which means your clothes maintain brightness without any residue.",
+      "id": 47
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/59843a.jpg",
+      "name": "Lizol Floor Cleaner",
+      "qnty": "500 ml",
+      "price": 103,
+      "discount": "15",
+      "category": "cleaning",
+      "seller": "Inchara Stores",
+      "description": "Lizol is India's No. 1 floor cleaning brand and recommended by the Indian medical association. Keep your home fresh and germ-free with Lizol. Lizol disinfectant surface cleaner contains a distinctive formulation that kills 99. 9 percent Germs and gives 10 times better cleaning and germ protection than standard phenyls, keeping the whole house cleaner, shinier and germ free.",
+      "id": 48
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/438345a.jpg",
+      "name": "Gala Wiper",
+      "qnty": "1 pc",
+      "price": 205,
+      "discount": "15",
+      "category": "cleaning",
+      "seller": "Jaggesh Stores",
+      "description": "Rubber wiper. Italy pipe makes it durable. Can be used in both push and pull action. Strong and sturdy plastic header. High quality double lip rubber which dries the floor in one swipe.",
+      "id": 49
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/81894a.jpg",
+      "name": "Comfort fabric conditioner",
+      "qnty": "800 ml",
+      "price": 210,
+      "discount": "12",
+      "category": "cleaning",
+      "seller": "Jaggesh Stores",
+      "description": "Want to keep your clothes looking new? Now, with Comfort After Wash Morning Fresh Fabric Conditioner, that is possible. The product is an after-wash fabric conditioner that provides a protective layer to your clothes to prevent them from damage from repeated washing. ",
+      "id": 50
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/28418a.jpg",
+      "name": "Santoor Sandal",
+      "qnty": "4 X 125 g",
+      "price": 222,
+      "discount": "15",
+      "category": "personal",
+      "seller": "Gowda Stores",
+      "description": "Santoor soap's deep acting ingredients of Turmeric and Sandal not just provide smooth, soft and clear skin, but also give a youthful glow to the skin. Plus, it has a fresh energizing and a long lasting fragrance.",
+      "id": 51
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/481221a.jpg",
+      "name": "Plum Face Gel",
+      "qnty": "225 g",
+      "price": 250,
+      "discount": "24",
+      "category": "personal",
+      "seller": "Gowda Stores",
+      "description": "Every effort is made to maintain the accuracy of all information. However, actual product packaging and materials may contain more and/or different information. The color of the product displayed in the image may differ from that received in the order. It is recommended not to solely rely on the details presented.",
+      "id": 52
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/379651a.jpg",
+      "name": "Head & Shoulder",
+      "qnty": "665 ml",
+      "price": 825,
+      "discount": "34",
+      "category": "personal",
+      "seller": "Gowda Stores",
+      "description": "For the first time in India, the Head and Shoulders, 2-in-1 range is specially formulated to give you the dandruff fighting power you expect along with the menthol freshness and make your scalp cool, fresh and dandruff free, while combining the benefits of both shampoo and conditioner in one bottle. It makes your hair upto 100% dandruff free and surprisingly smooth.",
+      "id": 53
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/121163a.jpg",
+      "name": "Fogg Deodorant Spray",
+      "qnty": "150 ml",
+      "price": 275,
+      "discount": "10",
+      "category": "personal",
+      "seller": "Inchara Stores",
+      "description": "With a strong, bold and bracing fragrance Provides all day long protection against perspiration and body odour Makes you feel fresh, fragranted and energized all day",
+      "id": 54
+    },
+    {
+      "images": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=250,h=250/app/images/products/sliding_image/438211a.jpg",
+      "name": "Godrej Rich Creame Die",
+      "qnty": "160 g ",
+      "price": 124,
+      "discount": "16",
+      "category": "personal",
+      "seller": "Kiran Stores",
+      "description": "Godrej Expert Rich Creme Hair Colour now in a new single-use pack. Colour your hair and do root touch-ups - right in the comfort of your home. It's so convenient that all you have to do is mix and apply. The No-Ammonia formula keeps hair damage-free. Enriched with Aloe Vera & Milk Protein that keeps your hair unbelievably soft and shiny. Getting beautiful coloured hair just got simpler! Available in 5 beautiful shades - Natural Black, Black Brown, Burgundy, Dark Brown, and Natural Brown.",
+      "id": 56
+    }
+  ],
+  "products-image": [
+    {
+      "id": 1,
+      "alt": "Fruits And Vegetables",
+      "category": "fruits",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-1_0.png"
+    },
+    {
+      "id": 2,
+      "alt": "Dairy,Bread & Eggs",
+      "category": "dairy",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-2_0.png"
+    },
+    {
+      "id": 3,
+      "alt": "Snacks & Munchies",
+      "category": "snacks",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-5.png"
+    },
+    {
+      "id": 4,
+      "alt": "Bakery & Biscuits",
+      "category": "bakery",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-4_1.png"
+    },
+    {
+      "id": 5,
+      "alt": "Cold drinks & Juices",
+      "category": "juices",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-6.png"
+    },
+    {
+      "id": 6,
+      "alt": "Atta,Rice & Dal",
+      "category": "atta",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-11.png"
+    },
+    {
+      "id": 7,
+      "alt": "Masala,Oil & More",
+      "category": "masala",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-12.png"
+    },
+    {
+      "id": 8,
+      "alt": "Chicken,Meat & Fish",
+      "category": "meat",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-8.png"
+    },
+    {
+      "id": 9,
+      "alt": "Cleaning Essentials",
+      "category": "cleaning",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-16.png"
+    },
+    {
+      "id": 10,
+      "alt": "Personal Care",
+      "category": "personal",
+      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/layout-engine/2022-03/Slice-15.png"
+    }
+  ],
+  "cart": []
+}

@@ -1,0 +1,63 @@
+.upi-main {
+  background-color: #243745;
+  text-align: left;
+  border: 1px solid transparent;
+  height: 700px;
+}
+.nav-upi {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f2f0f0;
+}
+.upi-main img {
+  width: 100px;
+  padding: 10px;
+}
+.upiContainer {
+  background-color: #243745;
+  width: 70%;
+  margin: auto;
+  margin-top: 5%;
+  background-color: white;
+}
+.pay-details {
+  display: flex;
+  justify-content: space-between;
+}
+.pay-details > div > div:nth-child(1) {
+  font-size: 20px;
+}
+.pay-details > div {
+  padding: 20px;
+}
+.upi-main input[type="email"] {
+  width: 25%;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+.make-pay {
+  padding: 20px;
+}
+.upi-main input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #f0c455;
+  border: 0;
+  border-radius: 4px;
+  font-size: 16px;
+}
+.upiContainer > div:last-child {
+  margin-left: 40%;
+  padding: 1% 0 2% 0;
+}
+.upi-main input[type="submit"]:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  cursor: pointer;
+}
+@media only screen and (min-width: 0px) and (max-width: 375px) {
+  .upiContainer {
+    width: 100%;
+  }
+  .upiContainer input[type="email"] {
+    width: 80%;
+  }
+}

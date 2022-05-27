@@ -1,0 +1,76 @@
+.cartPage-container {
+  margin: auto;
+  text-align: left;
+  margin-top: 4%;
+  width: 90%;
+}
+.cartPage-main {
+  display: grid;
+  grid-template-columns: 60% 35%;
+  justify-content: space-between;
+}
+.cartPage-main > div:nth-child(1) {
+  border: 1px solid #ccc;
+}
+.cartPage-item {
+  display: grid;
+  grid-template-columns: 25% 70%;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+}
+.cartPage-item > div > img {
+  width: 100%;
+}
+.cartPage-item > div:nth-child(1) {
+  padding: 5%;
+}
+.cartPage-item-details {
+  display: flex;
+  justify-content: space-between;
+  padding: 10% 15% 0 10%;
+}
+.cartPage-span {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 50px;
+}
+.cartPage-item-details > div:nth-child(2) {
+  margin-top: 8%;
+}
+.cartPage-item-details > div:nth-child(2) > button {
+  padding: 8px 16px;
+  border: 0;
+  background-color: forestgreen;
+  color: white;
+  border-radius: 3px;
+}
+.cartPage-bill-main > div {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5%;
+}
+.cartPage-bill-main {
+  padding: 3%;
+  border: 1px solid #ccc;
+  font-size: 18px;
+}
+.cartPage-pay {
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 5%;
+}
+.cartPage-pay > button {
+  padding: 2% 4%;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: forestgreen;
+  border: 0;
+  color: white;
+  border-radius: 3px;
+}
+.cartPage-pay > button:hover,
+.cartPage-item-details > div:nth-child(2) > button:hover {
+  border: 1px solid forestgreen;
+  color: forestgreen;
+  background-color: white;
+}

@@ -1,0 +1,14 @@
+.main-container {
+  width: 85%;
+  margin: auto;
+  margin-top: 4%;
+}
+.paan-img {
+  width: 100%;
+}
+.category-main-img {
+  display: grid;
+  width: 80%;
+  margin: auto;
+  grid-template-columns: repeat(5, 1fr);
+}

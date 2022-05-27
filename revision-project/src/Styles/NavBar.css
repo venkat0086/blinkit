@@ -1,0 +1,76 @@
+.nav-bar-main {
+  display: flex;
+  width: 100%;
+  margin: auto;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+  padding: 5px;
+  height: 43px;
+  background-color: #f8cb46;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.nav-container-heading {
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+}
+.nav-container-sub-heading {
+  line-height: 50%;
+  font-size: 16px;
+  font-weight: 400;
+}
+.location-main {
+  display: flex;
+  width: 14.5%;
+  justify-content: space-between;
+}
+.location-logo {
+  margin-top: 25%;
+  font-size: 25px;
+}
+.search-main {
+  display: flex;
+  width: 48%;
+  border-radius: 25px;
+}
+.search-input {
+  width: 95%;
+  border: 0;
+}
+.search-btn {
+  width: 5%;
+  background-color: white;
+  border: 0;
+  font-size: 18px;
+}
+button:hover {
+  cursor: pointer;
+}
+.login {
+  text-decoration: none;
+  color: black;
+  margin-top: 50%;
+  font-size: 17px;
+  font-weight: bold;
+}
+.cart-btn {
+  padding: 6px 6px;
+  width: 100%;
+  border-radius: 5px;
+  border: 0;
+  height: 90%;
+  background-color: forestgreen;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+}
+.cart-div {
+  display: flex;
+  justify-content: space-between;
+}
+.cart-main {
+  width: 8%;
+}

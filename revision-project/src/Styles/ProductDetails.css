@@ -1,0 +1,62 @@
+.item-container,
+.item-desc-main {
+  display: grid;
+  width: 75%;
+  margin: auto;
+  margin-top: 4%;
+  grid-template-columns: 40% 55%;
+  grid-gap: 5%;
+}
+.item-details {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  padding: 6%;
+  margin-top: 4%;
+}
+.item-details > div > span:last-child {
+  text-decoration: line-through;
+}
+
+.item-unit {
+  text-align: left;
+  padding: 6%;
+}
+.item-unit > button,
+.item-details > div > button {
+  padding: 5px 10px;
+  border: 1px solid #51aa1b;
+  background-color: white;
+  color: #51aa1b;
+  border-radius: 3px;
+}
+.item-unit > button:hover,
+.item-details > div > button:hover {
+  background-color: #51aa1b;
+  color: white;
+}
+.item-desc {
+  text-align: left;
+}
+.item-desc-head {
+  text-align: left;
+  font-size: 18px;
+  font-weight: 500;
+}
+.item-desc-two > div {
+  display: flex;
+  gap: 15px;
+  margin-top: 3%;
+}
+.item-desc-two {
+  margin: 2% 0 2% 0;
+}
+.item-desc-two img {
+  width: 50px;
+  height: 50px;
+}
+.item-desc-two > div > div:nth-child(2) {
+  text-align: left;
+  font-size: 13px;
+  line-height: 20px;
+}
